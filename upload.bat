@@ -1,12 +1,14 @@
 @echo off
-REM Change to your project directory
+REM Navigate to your project directory
 cd /d "C:\Users\sohag\Downloads\live"
 
-REM Stage all changes
+REM Initialize repo (only needed once, comment out after first run)
+git init
+echo "# Streaming-Platform-Webpage" >> README.md
 git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/sohag1192/Streaming-Platform-Webpage.git
 
-REM Commit with fixed message
-git commit -m "Sohag1192"
-
-REM Push to main branch
-git push origin main
+REM Push to GitHub
+git push -u origin main
