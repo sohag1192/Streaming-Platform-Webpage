@@ -4,7 +4,7 @@ cd /d "C:\Users\sohag\Downloads\live"
 
 REM Initialize repo (only needed once, comment out after first run)
 git init
-echo "# Streaming-Platform-Webpage" >> README.md
+
 git add .
 git commit -m "first commit"
 git branch -M main
