@@ -118,7 +118,8 @@ Add a license to clarify how others can use your project. If you want, I can add
 
 ## 📞 Contact
 **Md. Sohag Rana** — Sohag1192@gmail.com
-Telegram — https://t.me/sohag1192
+
+**Telegram — https://t.me/sohag1192
 
 ---
 
