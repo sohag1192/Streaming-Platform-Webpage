@@ -1,6 +1,6 @@
 @echo off
 REM Navigate to your project directory
-cd /d "C:\Users\sohag\Downloads\live"
+cd /d "C:\Users\sohag\Downloads\Streaming-Platform-Webpage"
 
 REM Initialize repo (only needed once, comment out after first run)
 git init
