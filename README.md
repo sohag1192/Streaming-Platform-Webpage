@@ -62,7 +62,8 @@ A responsive web-based streaming platform with separate **User** and **Admin** i
 
 ## 📦 Installation and Setup
 
-**Contact for required files**: Sohag at **Sohag1192@gmail.com**
+**Contact for required files**: Sohag at **Sohag1192@gmail.com**  
+Telegram: https://t.me/sohag1192
 
 1. **Clone the repository**
    ```bash
@@ -117,6 +118,7 @@ Add a license to clarify how others can use your project. If you want, I can add
 
 ## 📞 Contact
 **Md. Sohag Rana** — Sohag1192@gmail.com
+Telegram — https://t.me/sohag1192
 
 ---
 
