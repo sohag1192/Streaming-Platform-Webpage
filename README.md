@@ -53,17 +53,29 @@ A sleek, responsive web-based streaming platform featuring dedicated **User** an
 
 ### User Experience
 
-<p align="center">
-<img src="[https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/user%20interface/1.png](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/user%20interface/1.png)" width="45%" />
-<img src="[https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/user%20interface/2.png](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/user%20interface/2.png)" width="45%" />
-</p>
+![User Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/user%20interface/1.png)
+![User Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/user%20interface/2.png)
+![User Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/user%20interface/3.png)
+![User Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/user%20interface/4.png)
+![User Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/user%20interface/5.png)
+![User Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/user%20interface/6.png)
+![User Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/user%20interface/7.png)
+
 
 ### Admin Control Center
 
-<p align="center">
-<img src="[https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/new0.png](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/new0.png)" width="45%" />
-<img src="[https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/Screenshot_0.png](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/Screenshot_0.png)" width="45%" />
-</p>
+![Admin Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/new0.png)
+![Admin Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/new1.png)
+![Admin Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/Screenshot_0.png)
+![Admin Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/Screenshot_1.png)
+![Admin Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/Screenshot_2.png)
+![Admin Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/Screenshot_3.png)
+![Admin Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/Screenshot_4.png)
+![Admin Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/Screenshot_5.png)
+![Admin Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/Screenshot_6.png)
+![Admin Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/Screenshot_7.png)
+![Admin Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/Screenshot_8.png)
+![Admin Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/Screenshot_9.png)
 
 ---
 
