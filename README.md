@@ -1,135 +1,125 @@
+
+---
+
 # 🎬 Streaming Platform Webpage ![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fsohag1192%2FStreaming-Platform-Webpage&label=&icon=github&color=%23198754&message=&style=flat&tz=UTC)
 
-A responsive web-based streaming platform with separate **User** and **Admin** interfaces. Built with **HTML**, **CSS**, and **Vanilla JavaScript** for easy customization and integration.
+
+A sleek, responsive web-based streaming platform featuring dedicated **User** and **Admin** interfaces. This project is built using core web technologies, making it lightweight, highly customizable, and easy to integrate with various backends.
 
 ---
 
 ## 🚀 Features
 
 ### 👤 User Interface
-- **Browse Content** — View available movies and streams.  
-- **Playback** — Watch streams directly in the browser.  
-- **Responsive Design** — Works across desktop, tablet, and mobile.
+
+* **Content Discovery** – Effortlessly browse through movies and live streams.
+* **Direct Playback** – Integrated player for watching content directly in-browser.
+* **Fully Responsive** – Optimized for seamless viewing on desktops, tablets, and mobile devices.
 
 ### ⚙️ Admin Interface
-- **Dashboard** — Quick overview of platform statistics.  
-- **Content Management** — Upload, edit, and remove streaming content.  
-- **User Management** — Manage user accounts and permissions.
+
+* **Live Dashboard** – Monitor platform statistics at a glance.
+* **Content Management** – Full CRUD (Create, Read, Update, Delete) capabilities for media.
+* **User Control** – Manage accounts, permissions, and security settings.
 
 ---
 
-## 🛠️ Technologies Used
-- **Frontend**: HTML5; CSS3  
-- **Scripting**: JavaScript (Vanilla)  
-- **Backend Support**: Designed to integrate with PHP or Node.js (customizable)
+## 🛠️ Tech Stack
+
+* **Frontend:** HTML5, CSS3 (Modern layout techniques)
+* **Scripting:** Vanilla JavaScript (ES6+)
+* **Backend Compatibility:** Pre-architected for easy integration with **PHP**, **Node.js**, or **Python**.
+
+---
+
+## 🔗 Live Demo & Access
+
+| Resource | Link |
+| --- | --- |
+| **User Web Portal** | [Live Demo](https://demo.rootmaster.xyz) |
+| **Video Player Sample** | [Play Web](https://demo.rootmaster.xyz/play.php?id=1770033195561) |
+| **Admin Dashboard** | [Admin Panel](https://demo.rootmaster.xyz/admin/) |
+| **Image Management** | [Upload Panel](https://demo.rootmaster.xyz/upload.php) |
+
+### 🔐 Demo Credentials
+
+> **Username:** `demo`
+> **Password:** `demo@admin`
+> **OTP Support:** [Join Telegram Group](https://t.me/+loDuWUIdtUYwZGQ9)
 
 ---
 
 ## 📸 Screenshots
 
-> **Note:** Ensure an `img` folder exists in the repository with the referenced images.
+### User Experience
 
+<p align="center">
+<img src="[https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/user%20interface/1.png](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/user%20interface/1.png)" width="45%" />
+<img src="[https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/user%20interface/2.png](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/user%20interface/2.png)" width="45%" />
+</p>
 
-## 📸 Screenshots
+### Admin Control Center
 
-> **Note:** Please ensure you have an `img` folder in your repository containing these screenshot files.
-
-### User Interface
-![User Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/user%20interface/1.png)
-![User Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/user%20interface/2.png)
-![User Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/user%20interface/3.png)
-![User Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/user%20interface/4.png)
-![User Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/user%20interface/5.png)
-![User Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/user%20interface/6.png)
-![User Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/user%20interface/7.png)
-
-### Admin Interface
-![Admin Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/new0.png)
-![Admin Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/new1.png)
-![Admin Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/Screenshot_0.png)
-![Admin Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/Screenshot_1.png)
-![Admin Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/Screenshot_2.png)
-![Admin Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/Screenshot_3.png)
-![Admin Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/Screenshot_4.png)
-![Admin Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/Screenshot_5.png)
-![Admin Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/Screenshot_6.png)
-![Admin Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/Screenshot_7.png)
-![Admin Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/Screenshot_8.png)
-![Admin Interface Screenshot](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/Screenshot_9.png)
-
+<p align="center">
+<img src="[https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/new0.png](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/new0.png)" width="45%" />
+<img src="[https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/Screenshot_0.png](https://github.com/sohag1192/Streaming-Platform-Webpage/blob/main/admin%20interface/Screenshot_0.png)" width="45%" />
+</p>
 
 ---
 
 ## 📦 Installation and Setup
 
-**Contact for required files**: Sohag at **Sohag1192@gmail.com**  
-Telegram: https://t.me/sohag1192
+**Note:** For the complete source code and required backend files, please contact the developer via **Sohag1192@gmail.com** or [Telegram](https://t.me/sohag1192).
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/sohag1192/Streaming-Platform-Webpage.git
-   ```
-2. **Change directory**
-   ```bash
-   cd Streaming-Platform-Webpage
-   ```
-3. **Run locally**
-   - Open the appropriate `index.html` in your browser (user or admin folder).  
-   - For a better development experience, use a local server such as Live Server in VS Code.
+1. **Clone the Repository**
+```bash
+git clone https://github.com/sohag1192/Streaming-Platform-Webpage.git
 
-4. **Optional**
-   - Integrate with a backend (PHP/Node.js) to enable persistent storage, authentication, and media hosting.
+```
+
+
+2. **Navigate to Directory**
+```bash
+cd Streaming-Platform-Webpage
+
+```
+
+
+3. **Launch Locally**
+* Open `index.html` in your preferred browser.
+* *Recommended:* Use **Live Server** extension in VS Code for real-time updates.
+
+
 
 ---
 
 ## ⚙️ Usage Notes
-- The project is front-end focused; to enable real uploads, authentication, and persistent content you will need to connect a backend and a media storage solution.  
-- Replace placeholder images and sample data with your own media and metadata for production use.  
-- For production streaming, consider using a dedicated streaming server or CDN for performance and scalability.
+
+* **Backend Integration:** This is primarily a frontend template. To enable persistent data and real file uploads, you must connect a database (MySQL/MongoDB) and a server-side language.
+* **Production Tips:** For high-traffic use, it is highly recommended to use a **CDN** (like Cloudflare or AWS CloudFront) for media delivery.
 
 ---
 
 ## 🤝 Contributing
-Contributions, issues, and feature requests are welcome.
 
-1. Fork the repository.  
-2. Create your feature branch:
-   ```bash
-   git checkout -b feature/AmazingFeature
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add AmazingFeature"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/AmazingFeature
-   ```
+I welcome contributions to make this platform even better!
+
+1. Fork the Project.
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`).
+4. Push to the Branch (`git push origin feature/AmazingFeature`).
 5. Open a Pull Request.
 
-Please include a short description of your change and any setup steps required to test it.
+---
+
+## 📞 Contact & Support
+
+**Md. Sohag Rana** 📧 [Sohag1192@gmail.com](mailto:Sohag1192@gmail.com)
+
+📱 [Telegram: @sohag1192](https://t.me/sohag1192)
 
 ---
 
-## 🧾 License
-Add a license to clarify how others can use your project. If you want, I can add a recommended license section for you.
+*Built with ❤️ by Md. Sohag Rana*
 
 ---
-
-## 📞 Contact
-**Md. Sohag Rana** — Sohag1192@gmail.com
-
-**Telegram — https://t.me/sohag1192
-
----
-
-## About
-Streaming Platform Webpage — a simple, responsive streaming solution with separate **user** and **admin** interfaces.
-
----
-
-Built with ❤️ by Md. Sohag Rana
-
----
-
-
