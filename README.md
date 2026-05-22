@@ -36,10 +36,10 @@ A sleek, responsive web-based streaming platform featuring dedicated **User** an
 
 | Resource | Link |
 | --- | --- |
-| **User Web Portal** | [Live Demo](https://demo.rootmaster.xyz) |
-| **Video Player Sample** | [Play Web](https://demo.rootmaster.xyz/play.php?id=1770033195561) |
-| **Admin Dashboard** | [Admin Panel](https://demo.rootmaster.xyz/admin/) |
-| **Image Management** | [Upload Panel](https://demo.rootmaster.xyz/upload.php) |
+| **User Web Portal** | [Live Demo](https://demo.rootbd.xyz) |
+| **Video Player Sample** | [Play Web](https://demo.rootbd.xyz/play.php?id=1770033195561) |
+| **Admin Dashboard** | [Admin Panel](https://demo.rootbd.xyz/admin/) |
+| **Image Management** | [Upload Panel](https://demo.rootbd.xyz/upload.php) |
 
 ### 🔐 Demo Credentials
 
