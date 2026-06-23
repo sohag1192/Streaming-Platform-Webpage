@@ -128,7 +128,7 @@ I welcome contributions to make this platform even better!
 
 **Md. Sohag Rana** 📧 [Sohag1192@gmail.com](mailto:Sohag1192@gmail.com)
 
-📱 [Telegram: @sohag1192](https://t.me/sohag1192)
+📬 **Contact via Telegram:** [Md_Sohag_Rana](https://t.me/Md_Sohag_Rana)
 
 ---
 
